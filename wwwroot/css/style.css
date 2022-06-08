@@ -1,0 +1,39 @@
+.row {
+    display: flex;
+    margin: 100px;
+    background-color: red;
+}
+
+.column {
+    flex: 50%;
+    background-color: blanchedalmond;
+    font-family: fantasy;
+}
+
+.profile_photo {
+    width: 300px;
+    height: 300px;
+}
+
+.proj-row {
+    display: flex;
+    margin-bottom: 20px;
+    color: pink;
+}
+
+.proj-col-left {
+    flex: 10%
+}
+
+.proj-col-right {
+    flex: 90%
+}
+
+.projectBox {
+    margin-left: 100px;
+}
+.head{
+    font-family: cursive;
+    font-style: oblique;
+    font-variant:unset
+}
